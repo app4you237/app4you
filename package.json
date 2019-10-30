@@ -1,0 +1,27 @@
+{
+  "name": "neurals",
+  "version": "1.0.0",
+  "description": "some test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/app4you237/app4you.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "app4you author",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/app4you237/app4you/issues"
+  },
+  "homepage": "https://github.com/app4you237/app4you#readme",
+  "dependencies": {
+    "brainjs": "^0.7.4",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
